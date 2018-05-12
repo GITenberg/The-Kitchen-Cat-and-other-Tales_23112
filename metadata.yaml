@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '32944'
     url: http://www.gutenberg.org/2009/agents/32944
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23112#The-Kitchen-Cat-and-other-Tales
 gutenberg_issued: '2007-10-20'
 gutenberg_type: Text
 identifiers:
